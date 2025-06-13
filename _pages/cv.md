@@ -64,7 +64,7 @@ redirect_from:
     <tr>
       <td>01/2022 - present</td>
       <td>Lecturer</td>
-      <td>European Distance University Hamburg - Learning Psychology and Learning Therapy</td>
+      <td>European Distance University Hamburg - Learning Psychology and Therapy</td>
     </tr>
     <tr>
       <td>07/2021 - 08/2023</td>
