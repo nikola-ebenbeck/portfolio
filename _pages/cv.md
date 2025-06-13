@@ -9,56 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+| When?                   | What?                                              | Where? |
+|--------------------------|-----------------------------------------------------------------|-------------|
+| 07/2021 - 07/2023        | PhD in Special Education                                         | University of Regensburg |
+| 08/2022 - 09/2023        | First State Examination in Special Schools - Learning Disabilities | University of Regensburg |
+| 10/2016 - 07/2021        | First State Examination in Special Schools - Intellectual Disabilities | JMU Würzburg |
+| 10/2016 - 07/2021        | B.A. in Education and Special Educational Needs                  | JMU Würzburg |
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Work experience
+| When?                   | What?                           | Where? |
+|--------------------------|------------------------------------|-------------|
+| 10/2024 - 02/2025        | Lecturer                            | TU Dortmund |
+| 09/2023 - present        | Senior Researcher    | University of Munich |
+| 01/2022 - present        | Lecturer                            | European Distance University Hamburg |
+| 07/2021 - 08/2023        | Research Associate                  | University of Regensburg |
+| 04/2021 - 08/2021        | Research Assistant      | University of Würzburg |
+| 10/2017 - 03/2021        | Student Assistant          | University of Würzburg |
