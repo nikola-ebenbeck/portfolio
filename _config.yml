@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Nikola"
-  pronouns         : "she/her" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Education scientist focusing on data-driven special and inclusive education."
   location         : "Munich, Germany"
   employer         : "University of Munich"
