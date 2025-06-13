@@ -22,7 +22,7 @@ repository               : "nikola-ebenbeck.github.io/portfolio/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_new.png"
   name             : "Nikola"
   pronouns         : # example: "she/her"  
   bio              : "Education scientist focusing on data-driven special and inclusive education."
