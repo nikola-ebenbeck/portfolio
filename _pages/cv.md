@@ -59,27 +59,27 @@ redirect_from:
     <tr>
       <td>09/2023 - present</td>
       <td>Senior Researcher</td>
-      <td>University of Munich</td>
+      <td>University of Munich, Chair of Special Education - Learning Disabilities and Inclusive Education</td>
     </tr>
     <tr>
       <td>01/2022 - present</td>
       <td>Lecturer</td>
-      <td>European Distance University Hamburg</td>
+      <td>European Distance University Hamburg - Learning Psychology and Learning Therapy</td>
     </tr>
     <tr>
       <td>07/2021 - 08/2023</td>
       <td>Research Associate</td>
-      <td>University of Regensburg</td>
+      <td>University of Regensburg, Chair of Learning Disabilties and Inclusive Education</td>
     </tr>
     <tr>
       <td>04/2021 - 08/2021</td>
       <td>Research Assistant</td>
-      <td>University of Würzburg</td>
+      <td>University of Würzburg, Chair of Special Education - Intellectual Disabilties</td>
     </tr>
     <tr>
       <td>10/2017 - 03/2021</td>
       <td>Student Assistant</td>
-      <td>University of Würzburg</td>
+      <td>University of Würzburg, Chair of Special Education - Intellectual Disabilties</td>
     </tr>
   </tbody>
 </table>
