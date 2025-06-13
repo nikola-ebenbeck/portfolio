@@ -32,7 +32,7 @@ author:
   email            : "nikola.ebenbeck@lmu.de" 
 
   # Academic websites
-  academia         : "https://www.edu.lmu.de/lernbehindertenpaedagogik/personen/wiss_ma/ebenbeck/index.html" # URL
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.de/citations?user=vz_J70wAAAAJ&hl=de"
   impactstory      : # URL
