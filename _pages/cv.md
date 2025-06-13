@@ -59,7 +59,7 @@ redirect_from:
     <tr>
       <td>09/2023 - present</td>
       <td>Senior Researcher</td>
-      <td>LMU Munich, Chair of Special Education - Learning Disabilities and Inclusive Education</td>
+      <td>LMU Munich, Special Education - Learning Disabilities and Inclusive Education</td>
     </tr>
     <tr>
       <td>01/2022 - present</td>
@@ -69,17 +69,17 @@ redirect_from:
     <tr>
       <td>07/2021 - 08/2023</td>
       <td>Research Associate</td>
-      <td>University of Regensburg, Chair of Learning Disabilties and Inclusive Education</td>
+      <td>University of Regensburg, Learning Disabilties and Inclusive Education</td>
     </tr>
     <tr>
       <td>04/2021 - 08/2021</td>
       <td>Research Assistant</td>
-      <td>JMU Würzburg, Chair of Special Education - Intellectual Disabilties</td>
+      <td>JMU Würzburg, Special Education - Intellectual Disabilties</td>
     </tr>
     <tr>
       <td>10/2017 - 03/2021</td>
       <td>Student Assistant</td>
-      <td>JMU Würzburg, Chair of Special Education - Intellectual Disabilties</td>
+      <td>JMU Würzburg, Special Education - Intellectual Disabilties</td>
     </tr>
   </tbody>
 </table>
