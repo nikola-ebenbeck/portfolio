@@ -11,13 +11,17 @@ Hello and thank you for visiting my portfolio website! Here, I share an overview
 
 ---
 
-##Feel free to explore the different sections:
+## Feel free to explore the different sections:
 
-**Research Projects** — Learn more about my current and past research work, including publications, talks, and code.
+**CV** - View my academic and professional background.
+
+**Research Projects** — Learn more about my current and past research work.
 
 **Open Educational Resources** — Access free materials that promote inclusive learning.
 
 **Contact** — Get in touch with me.
+
+---
 
 I hope you find the content useful and inspiring.
 If you have any questions, ideas, or would like to collaborate, I would be happy to hear from you!
