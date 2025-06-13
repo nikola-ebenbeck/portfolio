@@ -9,20 +9,80 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-| When?                   | What?                                              | Where? |
-|--------------------------|-----------------------------------------------------------------|-------------|
-| 07/2021 - 07/2023        | PhD in Special Education                                         | University of Regensburg |
-| 08/2022 - 09/2023        | First State Examination in Special Schools - Learning Disabilities | University of Regensburg |
-| 10/2016 - 07/2021        | First State Examination in Special Schools - Intellectual Disabilities | JMU Würzburg |
-| 10/2016 - 07/2021        | B.A. in Education and Special Educational Needs                  | JMU Würzburg |
+<h2>Education</h2>
 
-## Work experience
-| When?                   | What?                           | Where? |
-|--------------------------|------------------------------------|-------------|
-| 10/2024 - 02/2025        | Lecturer                            | TU Dortmund |
-| 09/2023 - present        | Senior Researcher    | University of Munich |
-| 01/2022 - present        | Lecturer                            | European Distance University Hamburg |
-| 07/2021 - 08/2023        | Research Associate                  | University of Regensburg |
-| 04/2021 - 08/2021        | Research Assistant      | University of Würzburg |
-| 10/2017 - 03/2021        | Student Assistant          | University of Würzburg |
+<table>
+  <thead>
+    <tr>
+      <th>When?</th>
+      <th>What?</th>
+      <th>Where?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>07/2021 - 07/2023</td>
+      <td>PhD in Special Education</td>
+      <td>University of Regensburg</td>
+    </tr>
+    <tr>
+      <td>08/2022 - 09/2023</td>
+      <td>First State Examination in Special Schools - Learning Disabilities</td>
+      <td>University of Regensburg</td>
+    </tr>
+    <tr>
+      <td>10/2016 - 07/2021</td>
+      <td>First State Examination in Special Schools - Intellectual Disabilities</td>
+      <td>JMU Würzburg</td>
+    </tr>
+    <tr>
+      <td>10/2016 - 07/2021</td>
+      <td>B.A. in Education and Special Educational Needs</td>
+      <td>JMU Würzburg</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Work experience</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>When?</th>
+      <th>What?</th>
+      <th>Where?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10/2024 - 02/2025</td>
+      <td>Lecturer</td>
+      <td>TU Dortmund</td>
+    </tr>
+    <tr>
+      <td>09/2023 - present</td>
+      <td>Senior Researcher</td>
+      <td>University of Munich</td>
+    </tr>
+    <tr>
+      <td>01/2022 - present</td>
+      <td>Lecturer</td>
+      <td>European Distance University Hamburg</td>
+    </tr>
+    <tr>
+      <td>07/2021 - 08/2023</td>
+      <td>Research Associate</td>
+      <td>University of Regensburg</td>
+    </tr>
+    <tr>
+      <td>04/2021 - 08/2021</td>
+      <td>Research Assistant</td>
+      <td>University of Würzburg</td>
+    </tr>
+    <tr>
+      <td>10/2017 - 03/2021</td>
+      <td>Student Assistant</td>
+      <td>University of Würzburg</td>
+    </tr>
+  </tbody>
+</table>
