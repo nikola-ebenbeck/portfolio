@@ -23,7 +23,7 @@ repository               : "nikola-ebenbeck.github.io/portfolio/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Nikola Ebenbeck"
+  name             : "Nikola"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Education scientist focusing on data-driven special and inclusive education."
   location         : "Munich, Germany"
