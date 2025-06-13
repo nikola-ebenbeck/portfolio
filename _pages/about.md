@@ -12,13 +12,13 @@ Hello and thank you for visiting my portfolio website! Here, I share an overview
 
 ### Feel free to explore the different sections:
 
-* **CV** — View my academic and professional background.
+- **CV**: View my academic and professional background.
 
-* **Research Projects** — Learn more about my current and past research work.
+- **Research Projects**: Learn more about my current and past research work.
 
-* **Practice Projects** — Explore digital teaching, learning, and assessment resources.
+- **Practice Projects**: Explore digital teaching, learning, and assessment resources.
 
-* **Talks & Teaching** — Discover my teaching, teacher training and talk activities.
+- **Talks & Teaching**: Discover my teaching, teacher training and talk activities.
 
 ---
 
