@@ -1,6 +1,6 @@
 ---
 title: "Inclusive Assessment and Databased Decision Making"
-excerpt: "This research area explores assessment and data-based decision making in inclusive education. It combines studies on teacher judgement, use of reference norms, and tools to support databased decision making."
+excerpt: "This research area explores assessment and data-based decision making in inclusive education. It combines studies on teacher judgement, use of reference norms, and tools to support databased decision making. Goal is to support the data driven decisions of teachers."
 collection: portfolio
 ---
 
