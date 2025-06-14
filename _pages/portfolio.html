@@ -5,15 +5,28 @@ permalink: /research/
 author_profile: true
 ---
 
-<div style="font-size: 0.8em; line-height: 1.6; text-align: justify; max-width: 700px">
-On this page, you will find an overview of my research projects in the field of special and inclusive education. 
-Each project link provides access to associated publications, open data, code repositories, and further details about the respective project.
-I invite you to explore the projects and resources shared here. If you have any questions, ideas, or are interested in collaborating, please feel free to get in touch!
+<div style="font-size: 0.8em; line-height: 1.6; text-align: justify; width: 100%; max-width: 700px; margin: 0 auto;">
+  <p>
+    On this page, you will find an overview of my research projects in the field of special and inclusive education. 
+    Each project link provides access to associated publications, open data, code repositories, and further details about the respective project.
+    I invite you to explore the projects and resources shared here. If you have any questions, ideas, or are interested in collaborating, please feel free to get in touch!
+  </p>
+
+  {% include base_path %}
+
+  {% for post in site.portfolio %}
+    <div style="margin-bottom: 2em;">
+      <h2 style="font-size: 1em; margin-bottom: 0.5em;">
+        {% if post.link %}
+          <a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+        {% endif %}
+      </h2>
+
+      {% if post.excerpt %}
+        <p style="font-size: 0.8em; line-height: 1.6; text-align: justify;">{{ post.excerpt | markdownify }}</p>
+      {% endif %}
+    </div>
+  {% endfor %}
 </div>
-  
-{% include base_path %}
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
