@@ -42,15 +42,14 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+  font-size: 0.8em;
 
   a + a {
     opacity: 0.5;
   }
 }
 
-/* remove border*/
 .page__content {
-
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
@@ -59,7 +58,10 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: 0.8em;
+  line-height: 1.6;
+  text-align: justify;
+  max-width: 700px;
 
   & + p {
     text-indent: 0;
@@ -84,11 +86,6 @@
   }
 }
 
-
-/*
-   List view
-   ========================================================================== */
-
 .list__item {
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
@@ -107,11 +104,6 @@
   }
 }
 
-
-/*
-   Grid view
-   ========================================================================== */
-
 .grid__item {
   margin-bottom: 2em;
 
@@ -121,7 +113,7 @@
 
   .archive__item-title {
     margin-top: 0.5em;
-    font-size: $type-size-5;
+    font-size: 0.8em;
   }
 
   .archive__item-excerpt {
@@ -136,8 +128,8 @@
   }
 
   @include breakpoint($medium) {
-    margin-left: 0; /* reset before mixin does its thing*/
-    margin-right: 0; /* reset before mixin does its thing*/
+    margin-left: 0;
+    margin-right: 0;
     @include gallery(2.5 of 10);
 
     .archive__item-teaser {
@@ -146,15 +138,13 @@
 
     .archive__item-excerpt {
       display: block;
-      font-size: $type-size-6;
+      font-size: 0.8em;
+      line-height: 1.6;
+      text-align: justify;
+      max-width: 700px;
     }
   }
 }
-
-
-/*
-   Features
-   ========================================================================== */
 
 .feature__wrapper {
   @include clearfix();
