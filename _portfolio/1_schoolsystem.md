@@ -1,6 +1,6 @@
 ---
 title: "Simulating Inclusive School Systems"
-excerpt: "This project investigates how school systems can be structurally transformed toward inclusion. Using school statistics and geographic data, we analyze current structures and simulate the future effects of reforms — such as closing special schools — on student placement, resource allocation, and school access. The aim is to provide insights to support inclusive education policy."
+excerpt: "This project investigates how school systems can be structurally transformed toward inclusion. Using school statistics and geographic data, we analyze current structures and simulate the future effects of reforms — such as closing special schools — on student placement, resource allocation, and school access."
 collection: portfolio
 ---
 
