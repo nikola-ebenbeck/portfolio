@@ -8,11 +8,11 @@ This research project examines the structural transformation of complex school s
 
 ## Publications
 
-Ebenbeck, N., Rieser, J., & Gebhardt, M. (2022). Das sonderpädagogische Fördersystem und die schulische Inklusion - Eine räumlich-strukturelle Analyse auf Basis statistischer Daten. spuren. DOI: 10.13140/RG.2.2.14803.25120
+Ebenbeck, N., Rieser, J., & Gebhardt, M. (2022). Das sonderpädagogische Fördersystem und die schulische Inklusion - Eine räumlich-strukturelle Analyse auf Basis statistischer Daten. spuren. 
 
 * :bulb: *In this study, we examine the development of inclusive education in Bavaria, Germany between 2010 and 2020, with a particular focus on disparities between urban and rural regions.*
 
-* :page_facing_up: *Read preprint here: Hier den Link einfügen*
+* :page_facing_up: *Read preprint here: DOI: 10.13140/RG.2.2.14803.25120*
 
 * :chart_with_upwards_trend: *See open data here: Hier den Link einfügen*
   
