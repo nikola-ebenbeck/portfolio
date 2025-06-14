@@ -10,7 +10,7 @@ Inclusive schools need to provide differentiated teaching and individualized ass
 
 Zellner, J., Ebenbeck, N. & Gebhardt, M. (2024). Entwicklung fallbasierter Lernspiele mit integrierten Entscheidungsbäumen zur Förderung der diagnostischen Entscheidungskompetenzen in der sonderpädagogischen Lehrkräfteausbildung. Qualifizierung für Inklusion, 6(2).
 
-* :bulb: *In this pilot study, we used progress monitoring item pools of the inclusive test platform levumi.de to simulate the performance, test reduction and test accuracy of adaptive progress monitoring tests.*
+* :bulb: *In this study, we present new educational games for teacher education that use decision trees to foster teachers’ data-based decision making.*
 
 * :page_facing_up: *Read here: Hier den Link einfügen*
 
@@ -20,8 +20,6 @@ Zellner, J., Ebenbeck, N. & Gebhardt, M. (2024). Entwicklung fallbasierter Lerns
 
 Gebhardt, M. & Ebenbeck, N. (2025). Using learning process as feedback: Effective teaching and support with Levumi digital progress monitoring. In Wicki, M. T. & Törmänen, M. Evidence-based Development of Inclusive Schools. Verlag Julius Klinkhardt.
 
-* :bulb: *In this text, we describe the use and importance of screenings and progress monitoring tests and which benefit adaptive tests may have.*
+* :bulb: *In this text, we describe how the digital test platform levumi.de can be used by teachers to use the learning process of theor students as feedback.*
 
 * :page_facing_up: *Read here: Hier den Link einfügen*
-
-* :chart_with_upwards_trend: *See open data here: Hier den Link einfügen*
