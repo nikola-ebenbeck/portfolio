@@ -20,6 +20,6 @@ Zellner, J., Ebenbeck, N. & Gebhardt, M. (2024). Entwicklung fallbasierter Lerns
 
 Gebhardt, M. & Ebenbeck, N. (2025). Using learning process as feedback: Effective teaching and support with Levumi digital progress monitoring. In Wicki, M. T. & Törmänen, M. Evidence-based Development of Inclusive Schools. Verlag Julius Klinkhardt.
 
-* :bulb: *In this text, we describe how the digital test platform levumi.de can be used by teachers to use the learning process of theor students as feedback.*
+* :bulb: *In this text, we describe how the digital test platform levumi.de can be used by teachers to use the learning process of students as feedback.*
 
 * :page_facing_up: *Read here: Hier den Link einfügen*
