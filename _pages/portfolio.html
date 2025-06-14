@@ -15,7 +15,8 @@ author_profile: true
   {% include base_path %}
 
   {% for post in site.portfolio %}
-    <div style="margin-bottom: 2em;">
+    <div style="margin-bottom: 1.5em;">
+       <hr>
       <h2 style="font-size: 1.5em; margin-bottom: 0.5em;">
         {% if post.link %}
           <a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
