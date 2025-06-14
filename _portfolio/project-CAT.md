@@ -18,6 +18,16 @@ Ebenbeck, N. & Gebhardt, M. (2022). Simulating computerized adaptive testing in 
   
 ---
 
+Buchwald, K., Ebenbeck, N. & Gebhardt, M. (2022). Screenings, Status‐ und adaptive Tests in der schulischen Diagnostik. In M. Gebhardt, D. Scheer & M. Schurig (Hrsg.), Handbuch der sonderpädagogischen Diagnostik. Grundlagen und Konzepte der Statusdiagnostik, Prozessdiagnostik und Förderplanung (S. 305‐312). Regensburg: Universitätsbibliothek. 
+
+* :bulb: *In this text, we describe the use and importance of screenings and progress monitoring tests and which benefit adaptive tests may have.*
+
+* :page_facing_up: *Read here: Hier den Link einfügen*
+
+* :chart_with_upwards_trend: *See open data here: Hier den Link einfügen*
+  
+---
+
 Jungjohann, J., Ebenbeck, N., Liebers, K., Diehl, K., & Gebhardt, M. (2023). Das Lesescreening LES-IN für inklusive Grundschulklassen. Entwicklung und psychometrische Prüfung einer Paper-Pencil-Version als Basis für computerbasiertes adaptives Testen (CAT). Empirische Sonderpädagogik 15, 141-156. 
 
 * :bulb: *In this study, we developed a reading screening for inclusive primary classes and analyzed its psychometric quality for a further development as an adaptive screening.*
@@ -56,3 +66,21 @@ Ebenbeck, N., Morten, B., Mühling, A., & Gebhardt, M. (2024). Duration vs. Accu
 
 * :chart_with_upwards_trend: *See open data here: Hier den Link einfügen*
 
+---
+
+Ebenbeck, N., Anderson, S., Jungjohann, J., & Gebhardt, M. (2024). Mehr Zeit für pädagogische Handlungen durch adaptives Testen. Voraussetzungen, Chancen und Grenzen am Beispiel einer inklusiven Lesediagnostik. Zeitschrift für Heilpädagogik 75, 52-61.  
+
+* :bulb: *In this paper, we describe the principle of computerized adaptive testing and summarize the results of the research project for a broad and practice-oriented audience.*
+
+* :page_facing_up: *Read [here](https://www.researchgate.net/publication/377874397_Mehr_Zeit_fur_padagogische_Handlungen_durch_adaptives_Testen_Voraussetzungen_Chancen_und_Grenzen_am_Beispiel_einer_inklusiven_Lesediagnostik)*
+
+* :chart_with_upwards_trend: *See open data here: Hier den Link einfügen*
+
+## Talks
+* Diehl, K., Gebhardt, M., Liebers, K., Mühling, A., Hanke, J., Ebenbeck, N., Jungjohann, J., Junger, R., Bastian, M.: (2022, 28. März). Digitale alltagsintegrierte Förderdiagnostik im Lesen – BMBF-Verbundprojekt. Digitale BMBF-Auftaktveranstaltung Förderbezogene Diagnostik in der inklusiven Bildung.
+* Ebenbeck, N., Gebhardt, M. (2022, 10. Mai). Adaptives Testen in der Sonderpädagogik. Simulation computerbasierter adaptiver Tests basierend auf Speed-Test Daten. Frühjahrstagung der Arbeitsgruppe für empirische sonderpädagogische Forschung (AESF), Hannover.
+* Diehl, K., Gebhardt, M., Liebers, K., Mühling, A., Hanke, J., Ebenbeck, N., Jungjohann, J., Junger, R., Bastian, M. (2022, 21. September). Digitale alltagsintegrierte Förderdiagnostik - Eine Antwort auf nachhaltige Bildung?. 30. Jahrestagung der DgfE Kommission Grundschulforschung und Pädagogik der Primarstufe, Regensburg.
+* Diehl, K., Gebhardt, M., Liebers, K., Mühling, A., Hanke, J., Ebenbeck, N., Jungjohann, J., Junger, R., Bastian, M. (2023, 24. März). Digitale alltagsintegrierte Förderdiagnostik im Lesen. Zwischenergebnisse der Teilprojekte. BMBF Jahrestagung Förderbezogene Diagnostik in der inklusiven Bildung, Frankfurt.
+* Ebenbeck, N. (2023, 04. Juli). Computerized Adaptive Testing in Inclusive Education - Computerbasiertes Adaptives Testen in der Inklusiven Pädagogik [Disputation]. Universität Regensburg.
+* Ebenbeck, N. (2024, 9. März). Trends in der datengestützten Förderdiagnostik. Der Mehrwert digitaler und adaptiver Screening- und Lernverlaufsinstrumente. Jubiläumskongress des Bundesverbandes Legasthenie und Dyskalkulie e.V., Würzburg.
+* Ebenbeck, N. (2025, 06. Juni). Computerized Adaptive Testing in Schools. Second Workshop of the Disability & Technology Affinity Group (DTAG). International Association for the Scientific Study of Intellectual and Developmental Disabilities (IASSIDD). Zoom.
