@@ -17,17 +17,32 @@ author_profile: true
   {% for post in site.portfolio %}
     <div style="margin-bottom: 2em;">
       <hr style="margin: 2em 0;">
-      <h2 style="font-size: 1.2em; margin: 0 0 0.5em 0;">
-        {% if post.link %}
-          <a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-        {% else %}
-          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
-        {% endif %}
-      </h2>
 
-      {% if post.excerpt %}
-        <p style="font-size: 0.8em; line-height: 1.6; text-align: justify;">{{ post.excerpt | markdownify }}</p>
-      {% endif %}
+      <div style="display: flex; gap: 1em; align-items: flex-start;">
+        {% if post.header.teaser %}
+          <div style="flex: 0 0 120px;">
+            <img src="{{ post.header.teaser | relative_url }}" alt="" style="width: 100%; height: auto; border-radius: 4px;">
+          </div>
+        {% endif %}
+
+        <div style="flex: 1;">
+          <h2 style="font-size: 1.2em; margin: 0 0 0.5em 0;">
+            {% if post.link %}
+              <a href="{{ post.link }}">{{ post.title }}</a>
+              <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+                <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
+                <span class="sr-only">Permalink</span>
+              </a>
+            {% else %}
+              <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+            {% endif %}
+          </h2>
+
+          {% if post.excerpt %}
+            <p style="font-size: 0.8em; line-height: 1.6; text-align: justify; margin: 0;">{{ post.excerpt | markdownify }}</p>
+          {% endif %}
+        </div>
+      </div>
     </div>
   {% endfor %}
 </div>
