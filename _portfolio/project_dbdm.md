@@ -2,6 +2,8 @@
 title: "Inclusive Assessment and Databased Decision Making"
 excerpt: "This research area explores assessment and data-based decision making in inclusive education. It combines studies on teacher judgement, use of reference norms, and tools to support databased decision making. Goal is to support the data driven decisions of teachers."
 collection: portfolio
+header:
+  teaser: /portfolio/images/DBDM.png
 ---
 
 Inclusive schools need to provide differentiated teaching and individualized assessment to effectively support all students. That’s why it is especially important for students with special educational needs that teachers make pedagogical decisions based on data-informed foundations—such as standardized assessments—rather than relying solely on informal judgement. Our research therefore supports the development of data-based formative assessment practices.
