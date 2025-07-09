@@ -2,6 +2,7 @@
 title: "Instructional Videos for Students with Disabilities"
 excerpt: "In this project, university special education students create curriculum-based instructional videos for learners with learning disabilities. Produced in the University's MediaLab and published on YouTube, the videos support flexible use in inclusive classrooms, from whole-class teaching to group work and self-paced learning."
 collection: teaching
+read_time: false
 header:
   teaser: /portfolio/images/Medialab_Logo.png
 ---
@@ -12,22 +13,12 @@ In this practice-based project, university students design and produce instructi
 
 The videos are published on the **YouTube channel of the MediaLab**, and the range of topics continues to grow each semester. Currently, the collection includes:
 
-**Mathematics:**
-- Written addition
-- Plotting a point in a coordinate system
-- Greater than and less than
-- Commutative property of addition
-
-**German:**
-- Verb-second word order
-
-**Science:**
-- Air expands when heated
-- HIV and AIDS
-- Photosynthesis
-
-**Economics:**
-- Value-added tax
+| **Mathematics**                          | **German**                | **Science**                  | **Economics**          |
+|------------------------------------------|----------------------------|------------------------------|------------------------|
+| Written addition                         | Verb-second word order     | Air expands when heated      | Value-added tax (VAT) |
+| Plotting a point in a coordinate system  |                            | HIV and AIDS                 |                        |
+| Greater than and less than              |                            | Photosynthesis               |                        |
+| Commutative property of addition         |                            |                              |                        |
 
 ![Projektbild](/portfolio/images/Medialab_Header.png)
 
