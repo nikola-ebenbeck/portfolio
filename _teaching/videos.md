@@ -4,6 +4,7 @@ excerpt: "In this project, university special education students create curricul
 collection: teaching
 read_time: false
 show_date: false
+date: 2025-07-09
 header:
   teaser: /portfolio/images/Medialab_Logo.png
 ---
