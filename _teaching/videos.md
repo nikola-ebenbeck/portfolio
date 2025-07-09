@@ -3,6 +3,7 @@ title: "Instructional Videos for Students with Disabilities"
 excerpt: "In this project, university special education students create curriculum-based instructional videos for learners with learning disabilities. Produced in the University's MediaLab and published on YouTube, the videos support flexible use in inclusive classrooms, from whole-class teaching to group work and self-paced learning."
 collection: teaching
 read_time: false
+show_date: false
 header:
   teaser: /portfolio/images/Medialab_Logo.png
 ---
