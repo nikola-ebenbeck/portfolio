@@ -8,6 +8,8 @@ header:
 
 Inclusive schools need to provide differentiated teaching and individualized assessment to effectively support all students. That’s why it is especially important for students with special educational needs that teachers make pedagogical decisions based on data-informed foundations—such as standardized assessments—rather than relying solely on informal judgement. Our research therefore supports the development of data-based formative assessment practices.
 
+![Projektbild](/portfolio/images/Assessment.png)
+
 ## Publications
 
 Zellner, J., Ebenbeck, N. & Gebhardt, M. (2024). Entwicklung fallbasierter Lernspiele mit integrierten Entscheidungsbäumen zur Förderung der diagnostischen Entscheidungskompetenzen in der sonderpädagogischen Lehrkräfteausbildung. Qualifizierung für Inklusion, 6(2).
