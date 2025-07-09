@@ -6,7 +6,7 @@ header:
   teaser: /portfolio/images/Medialab_Logo.png
 ---
 
-In this practice-based project, university students design and produce instructional videos tailored to learners with learning disabilities. The videos cover various topics from the school curriculum and are created using a wide range of media techniques and didactic approaches. Production takes place in the Chair’s MediaLab, where students explore creative ways to make learning more accessible and engaging. Once completed, the videos are published on YouTube to support inclusive teaching in real-world educational settings. They are designed to be used flexibly in the classroom — whether during whole-class instruction, in small group work, station-based learning, or within weekly learning plans.
+NEU In this practice-based project, university students design and produce instructional videos tailored to learners with learning disabilities. The videos cover various topics from the school curriculum and are created using a wide range of media techniques and didactic approaches. Production takes place in the Chair’s MediaLab, where students explore creative ways to make learning more accessible and engaging. Once completed, the videos are published on YouTube to support inclusive teaching in real-world educational settings. They are designed to be used flexibly in the classroom — whether during whole-class instruction, in small group work, station-based learning, or within weekly learning plans.
 
 ![Projektbild](/portfolio/images/Medialab_Raum.png)
 
@@ -24,6 +24,12 @@ The videos are published on the **YouTube channel of the MediaLab**, and the ran
 ## Publications
 
 Ebenbeck, N., Koch, J., Giering, S., & Gebhardt, M. (2025). Lehre und Forschung im MediaLab. Ein Rahmenkonzept. Münchner Beiträge zur Inklusions- und Sonderpädagogik. Ludwig-Maximilians-Universität München. 
+
+<style>
+  .page__inner-wrap > header > p {
+    display: none !important;
+  }
+</style>
 
 * :bulb: *In this framework, we explain the principle, the ideas and the thoughts behind the MediaLab of the Chair of Special Education - Learning Disabilities and Inclusive Education at LMU Munich.*
 
