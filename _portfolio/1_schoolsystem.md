@@ -3,10 +3,12 @@ title: "Simulating Inclusive School Systems"
 excerpt: "This project investigates how school systems can be structurally transformed toward inclusion. Using school statistics and geographic data, we analyze current structures and simulate the future effects of reforms — such as closing special schools — on student placement, resource allocation, and school access."
 collection: portfolio
 header:
-  teaser: /portfolio/images/Schulsysteme.png
+  teaser: /portfolio/images/System1.png
 ---
 
 This research project examines the structural transformation of complex school systems toward inclusive education. Although Germany is committed to inclusive schooling through the UN Convention on the Rights of Persons with Disabilities, parallel special school structures still persist and function as systemic and social barriers. The project aims to empirically analyze the structural conditions and developments of inclusive education at federal and state levels and to model them predictively through simulation-based methods. The project aims to inform inclusive education policy through scientifically grounded evidence based on simulation studies.
+
+![Projektbild](/portfolio/images/System2.png)
 
 ## Publications
 
