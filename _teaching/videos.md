@@ -6,7 +6,6 @@ date: 2025-07-09
 show_date: false
 read_time: false
 author: null
-author_profile: false
 header:
   teaser: /portfolio/images/Medialab_Logo.png
 ---
