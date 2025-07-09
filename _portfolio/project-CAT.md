@@ -5,16 +5,6 @@ collection: portfolio
 header:
   teaser: /portfolio/images/Tablet.png
 ---
-<div style="display: flex; align-items: flex-start; gap: 1.5em; margin-bottom: 2em;">
-  <img src="/portfolio/images/Tablet.png" alt="Teaser image" style="max-width: 150px; height: auto; border-radius: 8px;">
-  <div>
-      Computerized Adaptive Tests (CATs) dynamically adjust their difficulty based on a student's individual skill level.
-      They are particularly beneficial for students with lower ability levels, such as those with learning or intellectual disabilities.
-      This body of research was conducted as part of the BMBF-funded joint project “Digitale Adaptive Förderdiagnostik im Lesen” (DaF-L),
-      which ran from August 2021 to August 2024.
-    </p>
-  </div>
-</div>
 
 Computerized Adaptive Tests (CATs) dynamically adjust their difficulty based on a student's individual skill level. They are particularly beneficial for students with lower ability levels, such as those with learning or intellectual disabilities. This body of research was conducted as part of the BMBF-funded joint project “Digitale Adaptive Förderdiagnostik im Lesen” (DaF-L), which ran from August 2021 to August 2024.
 
