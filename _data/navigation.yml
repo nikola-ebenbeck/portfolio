@@ -15,8 +15,5 @@ main:
   - title: "Research Projects"
     url: /research/
     
-  - title: "Development"
-    url: /practice/
-
-  - title: "Teaching and Teacher Education"
-    url: /talks/    
+  - title: "Practice-Oriented Projects"
+    url: /practice/ 
