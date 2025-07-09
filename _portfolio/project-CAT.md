@@ -6,10 +6,8 @@ header:
   teaser: /portfolio/images/Tablet.png
 ---
 <div style="display: flex; align-items: flex-start; gap: 1.5em; margin-bottom: 2em;">
-  <img src="/portfolio/images/Tablet.png" alt="Teaser image" style="max-width: 250px; height: auto; border-radius: 8px;">
+  <img src="/portfolio/images/Tablet.png" alt="Teaser image" style="max-width: 150px; height: auto; border-radius: 8px;">
   <div>
-    <h1>Computerized Adaptive Testing in Inclusive Education</h1>
-    <p>
       Computerized Adaptive Tests (CATs) dynamically adjust their difficulty based on a student's individual skill level.
       They are particularly beneficial for students with lower ability levels, such as those with learning or intellectual disabilities.
       This body of research was conducted as part of the BMBF-funded joint project “Digitale Adaptive Förderdiagnostik im Lesen” (DaF-L),
