@@ -6,7 +6,7 @@ header:
   teaser: /portfolio/images/Medialab_Logo.png
 ---
 
-NEU In this practice-based project, university students design and produce instructional videos tailored to learners with learning disabilities. The videos cover various topics from the school curriculum and are created using a wide range of media techniques and didactic approaches. Production takes place in the Chair’s MediaLab, where students explore creative ways to make learning more accessible and engaging. Once completed, the videos are published on YouTube to support inclusive teaching in real-world educational settings. They are designed to be used flexibly in the classroom — whether during whole-class instruction, in small group work, station-based learning, or within weekly learning plans.
+In this practice-based project, university students design and produce instructional videos tailored to learners with learning disabilities. The videos cover various topics from the school curriculum and are created using a wide range of media techniques and didactic approaches. Production takes place in the Chair’s MediaLab, where students explore creative ways to make learning more accessible and engaging. Once completed, the videos are published on YouTube to support inclusive teaching in real-world educational settings. They are designed to be used flexibly in the classroom — whether during whole-class instruction, in small group work, station-based learning, or within weekly learning plans.
 
 ![Projektbild](/portfolio/images/Medialab_Raum.png)
 
