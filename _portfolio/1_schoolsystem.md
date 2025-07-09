@@ -14,9 +14,7 @@ Ebenbeck, N., Rieser, J., & Gebhardt, M. (2022). Das sonderpädagogische Förder
 
 * :bulb: *In this study, we examine the development of inclusive education in Bavaria, Germany between 2010 and 2020, with a particular focus on disparities between urban and rural regions.*
 
-* :page_facing_up: *Read preprint here: DOI: 10.13140/RG.2.2.14803.25120*
-
-* :chart_with_upwards_trend: *See open data here: Hier den Link einfügen*
+* :page_facing_up: *Read preprint [here](doi.org/10.13140/RG.2.2.14803.25120)*
   
 ---
 
@@ -24,19 +22,29 @@ Ebenbeck, N., Rieser, J., Jungjohann, J., Gebhardt, M. (2022). How the existence
 
 * :bulb: *In this study, we show that in the German federal state of Bavaria, the size, density, and proximity of special schools to the nearest primary school have an impact on the inclusion rates in primary schools.*
 
-* :page_facing_up: *Read here: Hier den Link einfügen*
+* :page_facing_up: *Read [here](https://doi.org/10.1111/1471-3802.12565)*
 
-* :chart_with_upwards_trend: *See open data here: Hier den Link einfügen*
+* :chart_with_upwards_trend: *See open data [here](https://osf.io/c6axj/)*
   
 ---
 
-Ebenbeck, N. & Gebhardt, M. (2024). What if… there were no special schools? A simulation study based on governmental school data of Bavaria, Germany. Zeitschrift für Grundschulforschung. 
+Ebenbeck, N. & Gebhardt, M. (2025). What if… there were no special schools? A simulation study based on governmental school data of Bavaria, Germany. Zeitschrift für Grundschulforschung, 18. 139-156. 
 
 * :bulb: *In this study, we simulate the full and partial closure of special schools in Bavaria, Germany, and examine the effects on student enrollment in primary schools and the commuting distances of students.*
 
-* :page_facing_up: *Read here: DOI: 10.1007/s42278-024-00216-2 *
+* :page_facing_up: *Read [here](https://link.springer.com/article/10.1007/s42278-024-00216-2)*
 
-* :chart_with_upwards_trend: *See open data here: Hier den Link einfügen*
+* :chart_with_upwards_trend: *See open data [here](https://osf.io/mf7bx/)*
+
+---
+
+Ebenbeck, N. & Gebhardt, M. (2025). Every Primary School Needs Resources for Inclusion: Simulating Special Educator Distribution in Urban and Rural Areas in Inclusive School Systems. Preprint. EdArXiv.
+
+* :bulb: *In this study, we simulate the full and partial closure of special schools in Bavaria, Germany, and examine the effects on teacher hour distribution in primary schools and the commuting distances of mobile special educators.*
+
+* :page_facing_up: *Read preprint [here](https://osf.io/preprints/edarxiv/6sbcf_v1)*
+
+* :chart_with_upwards_trend: *See open data [here](https://osf.io/hb6c8/?view_only=34a4ea993f6c4c77950aacf3380b5209)*
 
 ## Talks
 * Ebenbeck, N., Gebhardt, M. (2024, 19. März). Was wäre, wenn Bayern inklusive Schulen statt Förderschulen hätte?. 11. Tagung der Gesellschaft für empirische Bildungsforschung (GEBF), Potsdam. 
