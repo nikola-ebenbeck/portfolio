@@ -16,14 +16,14 @@
 
 hr {
   border: none;
-  height: 4px;   /* Dicke der Striche */
+  height: 2px;   /* dünner */
 
   background-image: repeating-linear-gradient(
     to right,
-    #000 0,
-    #000 18px,        /* Länge eines Strichs */
-    transparent 18px,
-    transparent 38px  /* Abstand bis zum nächsten Strich */
+    #111 0,
+    #111 10px,        /* kürzere Striche */
+    transparent 10px,
+    transparent 22px  /* geringerer Abstand */
   );
 
   margin: 1rem 0;
