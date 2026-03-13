@@ -25,9 +25,9 @@ author:
   avatar           : "profile_new.png"
   name             : "Nikola"
   pronouns         : # example: "she/her"  
-  bio              : "Education scientist focusing on data-driven special and inclusive education."
+  bio              : "Education scientist @LMU Munich focusing on data-driven special and inclusive education."
   location         : #
-  employer         : "University of Munich"
+  employer         : #
   uri              : # URL
   email            : "nikola.ebenbeck@lmu.de" 
 
