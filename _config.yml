@@ -163,6 +163,10 @@ include:
   - .htaccess
   - _pages
   - files
+
+custom_css:
+  - assets/css/custom.css
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
