@@ -8,6 +8,11 @@
   line-height: 1.1;
 }
 
+/* Nur Startseite */
+body.layout--home .page__title {
+  margin-bottom: 0.25rem !important;   /* Abstand unter dem Titel */
+}
+
 /* ===== H2 Label-Stil ===== */
 .page__content h2 {
   font-family: "Montserrat", sans-serif;
