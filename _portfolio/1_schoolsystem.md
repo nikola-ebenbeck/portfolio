@@ -47,6 +47,3 @@ Ebenbeck, N. & Gebhardt, M. (2025). Every Primary School Needs Resources for Inc
 * :page_facing_up: *Read preprint [here](https://osf.io/preprints/edarxiv/6sbcf_v1)*
 
 * :chart_with_upwards_trend: *See open data [here](https://osf.io/hb6c8/?view_only=34a4ea993f6c4c77950aacf3380b5209)*
-
-## Talks
-* Ebenbeck, N., Gebhardt, M. (2024, 19. März). Was wäre, wenn Bayern inklusive Schulen statt Förderschulen hätte?. 11. Tagung der Gesellschaft für empirische Bildungsforschung (GEBF), Potsdam. 
