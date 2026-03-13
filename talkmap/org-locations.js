@@ -35,8 +35,7 @@ var addressPoints = [
     8.668652473828175
   ],
   [
-    "Computerized Adaptive Testing in Inclusive Education 
-    <br />Universität Regensburg",
+    "Computerized Adaptive Testing in Inclusive Education <br />Universität Regensburg",
     48.996923546076594, 
     12.094567594917997
   ],
