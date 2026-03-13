@@ -17,10 +17,9 @@ The videos are published on the **YouTube channel of the MediaLab**, and the ran
 | [Written addition ](https://www.youtube.com/watch?v=19yqKmeMLfw&t=7s)                        | [Verb-second word order](https://www.youtube.com/watch?v=29dGdvu7RoY)     | [Air expands when heated](https://www.youtube.com/watch?v=46lw1V7ATio)      | [Value-added tax (VAT)](https://www.youtube.com/watch?v=9r5e_SJhWxw) |
 | [Plotting a point in a coordinate system](https://www.youtube.com/watch?v=Sz99hU6-Kok)  |                            | [HIV and AIDS ](https://www.youtube.com/watch?v=JBws_wIRP54&t=9s)                |                        |
 | [Greater than and less than](https://www.youtube.com/watch?v=qYdQusl9XSc&t=16s)              |                            |               |                        |
-|         |                            |[The Silk Road](https://www.youtube.com/watch?v=Jd4SrdBZzcI&list=PLTSfZzjkwf8yuj9zbCtOdpdaOeD4Plj55)                              |                        |
+| [Exchange of Numbers for Calculations](https://www.youtube.com/watch?v=yW4SKzn30no&t=1s)          |                            |[The Silk Road](https://www.youtube.com/watch?v=Jd4SrdBZzcI&list=PLTSfZzjkwf8yuj9zbCtOdpdaOeD4Plj55)                              |                        |
 | [Types of angles](https://www.youtube.com/watch?v=Jd4SrdBZzcI&pp=0gcJCcUKAYcqIYzv)                          |                            |                              |                        |
 | [Area of rectangles](https://www.youtube.com/watch?v=LycnHM0SlBU)                        |                            |                              |                        |
-| [Exchange of Numbers for Calculations](https://www.youtube.com/watch?v=yW4SKzn30no&t=1s)      |                            |                              |                        |
 
 ![Projektbild](/portfolio/images/Medialab_Header.png)
 
