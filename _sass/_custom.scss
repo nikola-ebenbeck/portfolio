@@ -1,0 +1,39 @@
+/* ===== Seitentitel ===== */
+.page__title,
+h1 {
+  font-family: "Crimson Pro", Georgia, serif;
+  color: #8fc9f0;
+  font-weight: 700;
+  font-size: 3.5rem;   /* ggf. anpassen */
+  line-height: 1.1;
+}
+
+/* ===== H2 Label-Stil ===== */
+.page__content h2 {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.28em;
+  font-weight: 600;
+  font-size: 0.95rem;
+
+  display: inline-block;
+  background: #8fc9f0;
+  color: #0b0b0b;
+
+  padding: 0.55rem 1.1rem;
+  margin: 1rem 0 1.2rem 0;
+
+  border-radius: 0 999px 999px 0;  /* links eckig, rechts rund */
+}
+
+@media (max-width: 768px) {
+  .page__title,
+  h1 {
+    font-size: 2.3rem;
+  }
+
+  .page__content h2 {
+    letter-spacing: 0.18em;
+    font-size: 0.85rem;
+  }
+}
