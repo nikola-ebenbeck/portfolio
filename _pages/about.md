@@ -13,14 +13,14 @@ Hello and thank you for visiting my portfolio website! Here, I share an overview
 </div>
 
 ## Feel free to explore the different sections:
----
 
    **CV**: View my academic and professional background.
    
    **Research Projects**: Learn more about my current and past research work.
    
    **Practice-Oriented Projects**: Explore digital teaching, learning, and assessment resources.
-
+   
+   **Talks**: Where people heard and seen me talk about my favourite topics.
 
 ---
 
