@@ -1,7 +1,7 @@
 /* Titel enger nach unten */
 .page__title {
   margin-bottom: 0.3rem !important;
-  margin-bottom: 0.5rem !important;
+  margin-top: 0.5rem !important;
 }
 
 /* Content-Block enger nach oben */
@@ -24,7 +24,7 @@ hr {
     #111 0,
     #111 10px,        /* kürzere Striche */
     transparent 10px,
-    transparent 22px  /* geringerer Abstand */
+    transparent 15px  /* geringerer Abstand */
   );
 
   margin: 1rem 0;
