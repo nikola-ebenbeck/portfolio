@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<h2>AbBOUT MY EDUCATION</h2>
+<h2>ABOUT MY EDUCATION</h2>
 
 <table>
   <thead>
