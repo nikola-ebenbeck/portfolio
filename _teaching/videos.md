@@ -3,7 +3,7 @@ title: "Instructional Videos for Students with Disabilities"
 excerpt: "In this project, university special education students create curriculum-based instructional videos for learners with learning disabilities. Produced in the University's MediaLab and published on YouTube, the videos support flexible use in inclusive classrooms, from whole-class teaching to group work and self-paced learning."
 collection: portfolio
 header:
-  teaser: /portfolio/images/Medialab_Logo.png
+  teaser: /portfolio/images/Medialab.png
 ---
 
 In this practice-based project, university students design and produce instructional videos tailored to learners with learning disabilities. The videos cover various topics from the school curriculum and are created using a wide range of media techniques and didactic approaches. Production takes place in the Chair’s MediaLab, where students explore creative ways to make learning more accessible and engaging. Once completed, the videos are published on YouTube to support inclusive teaching in real-world educational settings. They are designed to be used flexibly in the classroom — whether during whole-class instruction, in small group work, station-based learning, or within weekly learning plans.
@@ -14,10 +14,13 @@ The videos are published on the **YouTube channel of the MediaLab**, and the ran
 
 | **Mathematics**                          | **German**                | **Science**                  | **Economics**          |
 |------------------------------------------|----------------------------|------------------------------|------------------------|
-| Written addition                         | Verb-second word order     | Air expands when heated      | Value-added tax (VAT) |
-| Plotting a point in a coordinate system  |                            | HIV and AIDS                 |                        |
-| Greater than and less than              |                            | Photosynthesis               |                        |
-| Commutative property of addition         |                            |                              |                        |
+| [Written addition ](https://www.youtube.com/watch?v=19yqKmeMLfw&t=7s)                        | [Verb-second word order](https://www.youtube.com/watch?v=29dGdvu7RoY)     | [Air expands when heated](https://www.youtube.com/watch?v=46lw1V7ATio)      | [Value-added tax (VAT)](https://www.youtube.com/watch?v=9r5e_SJhWxw) |
+| [Plotting a point in a coordinate system](https://www.youtube.com/watch?v=Sz99hU6-Kok)  |                            | [HIV and AIDS ](https://www.youtube.com/watch?v=JBws_wIRP54&t=9s)                |                        |
+| [Greater than and less than](https://www.youtube.com/watch?v=qYdQusl9XSc&t=16s)              |                            | Photosynthesis               |                        |
+| Commutative property of addition         |                            |[The Silk Road](https://www.youtube.com/watch?v=Jd4SrdBZzcI&list=PLTSfZzjkwf8yuj9zbCtOdpdaOeD4Plj55)                              |                        |
+| [Types of angles](https://www.youtube.com/watch?v=Jd4SrdBZzcI&pp=0gcJCcUKAYcqIYzv)                          |                            |                              |                        |
+| [Area of rectangles](https://www.youtube.com/watch?v=LycnHM0SlBU)                        |                            |                              |                        |
+| [Exchange of Numbers for Calculations](https://www.youtube.com/watch?v=yW4SKzn30no&t=1s)      |                            |                              |                        |
 
 ![Projektbild](/portfolio/images/Medialab_Header.png)
 
