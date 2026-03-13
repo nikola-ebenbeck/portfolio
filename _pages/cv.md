@@ -18,6 +18,11 @@ redirect_from:
   </thead>
   <tbody>
     <tr>
+      <td>07/2025 - present</td>
+      <td>Habilitation in Education Sciences</td>
+      <td>LMU Munich</td>
+    </tr>
+    <tr>
       <td>07/2021 - 07/2023</td>
       <td>PhD in Special Education</td>
       <td>University of Regensburg</td>
