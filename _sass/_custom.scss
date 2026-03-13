@@ -90,3 +90,19 @@ a:hover {
     font-size: 0.85rem;
   }
 }
+
+/* Talkmap: Text und Map exakt gleiche Breite */
+.talkmap-wrap {
+  max-width: 850px;          /* gleiche Breite wie vorher gedacht */
+}
+
+.talkmap-wrap p {
+  max-width: 100% !important; /* verhindert “schmalere Textspalte” */
+}
+
+.talkmap-iframe {
+  display: block;
+  width: 100%;
+  height: 700px;
+  border: none;
+}
