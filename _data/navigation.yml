@@ -15,5 +15,8 @@ main:
   - title: "Research Projects"
     url: /research/
     
-  - title: "Practice-Oriented Projects"
+  - title: "Learning Material"
     url: /practice/ 
+
+  - title: "Talks"
+    url: /talks/ 
