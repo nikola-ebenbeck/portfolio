@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<h2>Education</h2>
+<h2>AbBOUT MY EDUCATION</h2>
 
 <table>
   <thead>
@@ -45,7 +45,7 @@ redirect_from:
   </tbody>
 </table>
 
-<h2>Work experience</h2>
+<h2>ABOUT MY WORK EXPERIENCE</h2>
 
 <table>
   <thead>
@@ -59,7 +59,7 @@ redirect_from:
     <tr>
       <td>10/2024 - 02/2025</td>
       <td>Lecturer</td>
-      <td>TU Dortmund</td>
+      <td>TU Dortmund - Special Education</td>
     </tr>
     <tr>
       <td>09/2023 - present</td>
