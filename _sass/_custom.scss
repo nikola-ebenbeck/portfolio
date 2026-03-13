@@ -36,14 +36,14 @@ body,
 }
 
 /* Links im Content stilisieren */
-.page__content a {
+a {
   font-family: "Crimson Pro", Georgia, serif;
   color: darken(#8fc9f0, 10%);
   font-weight: 400;
   text-decoration: none;
 }
 
-.page__content a:hover {
+a:hover {
   color: darken(#8fc9f0, 20%);
   text-decoration: underline;
 }
