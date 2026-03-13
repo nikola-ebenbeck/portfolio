@@ -1,14 +1,16 @@
-/* ===== Nur Startseite ===== */
-body.layout--home .page__title {
-  margin-bottom: 0.2rem !important;
+/* Titel enger nach unten */
+.page__title {
+  margin-bottom: 0.3rem !important;
 }
 
-body.layout--home .page__content {
+/* Content-Block enger nach oben */
+.page__content {
   padding-top: 0 !important;
   margin-top: 0 !important;
 }
 
-body.layout--home .page__content h2 {
+/* Falls erstes Element H2 ist */
+.page__content h2:first-child {
   margin-top: 0 !important;
 }
 
