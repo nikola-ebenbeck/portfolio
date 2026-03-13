@@ -1,3 +1,17 @@
+/* ===== Nur Startseite ===== */
+body.layout--home .page__title {
+  margin-bottom: 0.2rem !important;
+}
+
+body.layout--home .page__content {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+body.layout--home .page__content h2 {
+  margin-top: 0 !important;
+}
+
 /* ===== Seitentitel ===== */
 .page__title,
 .page__content h1 {
