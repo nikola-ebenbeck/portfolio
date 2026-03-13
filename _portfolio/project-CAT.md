@@ -13,7 +13,7 @@ Computerized Adaptive Tests (CATs) dynamically adjust their difficulty based on 
 ## What is Computerized Adaptive Testing?
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=5YqEymEKeyI&t=5s&pp=ygUYZ2ViaGFkdCBhZGFwdGl2ZXMgdGVzdGVu"
+src="https://www.youtube.com/embed/5YqEymEKeyI?start=5"
 frameborder="0"
 allowfullscreen>
 </iframe>
