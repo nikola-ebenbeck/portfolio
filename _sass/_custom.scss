@@ -14,11 +14,19 @@
   margin-top: 0 !important;
 }
 
-/* Globale horizontale Linie */
 hr {
   border: none;
-  border-top: 1px dashed #000000;
-  margin: 2rem 0;
+  height: 4px;   /* Dicke der Striche */
+
+  background-image: repeating-linear-gradient(
+    to right,
+    #000 0,
+    #000 18px,        /* Länge eines Strichs */
+    transparent 18px,
+    transparent 38px  /* Abstand bis zum nächsten Strich */
+  );
+
+  margin: 1rem 0;
 }
 
 /* ===== Seitentitel ===== */
