@@ -1,5 +1,5 @@
 ---
-title: "Computerized Adaptive Testing in Inclusive Education"
+title: "Computerized Adaptive Testing"
 excerpt: "Computerized Adaptive Tests tailor their difficulty to the skill level of the student taking the test. They are especially benefitial for students with low abilities, e.g. students with learning disabilities or intellectual disabilties."
 collection: portfolio
 header:
