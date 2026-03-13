@@ -14,15 +14,15 @@ Hello and thank you for visiting my portfolio website! Here, I share an overview
 
 ## Feel free to explore the different sections:
 
-   **CV**: View my academic and professional background.
+  📄 **CV**: View my academic and professional background.
    
-   **Research Projects**: Learn more about my current and past research work.
+  🔎 **Research Projects**: Learn more about my current and past research work.
    
-   **Practice-Oriented Projects**: Explore digital teaching, learning, and assessment resources.
+  🧩 **Learning Material**: Explore digital teaching, learning, and assessment resources.
    
-   **Talks**: Where people heard and seen me talk about my favourite topics.
+  💬 **Talks**: Where people heard and seen me talk about my favourite topics.
 
 ---
 
-If you have any questions, ideas, or would like to collaborate, I would be happy to hear from you!
+If you have any questions, ideas, or would like to collaborate, I would be happy to hear from you! 📨
 
