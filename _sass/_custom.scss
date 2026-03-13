@@ -3,7 +3,7 @@
 .page__content h1 {
   font-family: "Crimson Pro", Georgia, serif;
   color: #8fc9f0;
-  font-weight: 400; 
+  font-weight: 300; 
   font-size: 3.5rem;
   line-height: 1.1;
 }
@@ -12,28 +12,30 @@
 .page__content h2 {
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
-  letter-spacing: 0.24em;  
+  letter-spacing: 0.22em;
   font-weight: 500;
-  font-size: 0.8rem;  
+
+  font-size: 0.7rem;      
+  padding: 0.4rem 0.9rem;
 
   display: inline-block;
   background: #8fc9f0;
   color: #0b0b0b;
 
-  padding: 0.45rem 1rem;
-  margin: 0.8rem 0 1rem 0;
-
   border-radius: 0 999px 999px 0;
+
+  margin-top: 0.2rem;     /* weniger Abstand nach oben */
+  margin-bottom: 0.9rem;
 }
 
 /* ===== Links ===== */
 a {
-  color: #8fc9f0;
+  color: darken(#8fc9f0, 10%);
   text-decoration: none;
 }
 
 a:hover {
-  color: darken(#8fc9f0, 10%);
+  color: darken(#8fc9f0, 20%);
   text-decoration: underline;
 }
 
