@@ -8,9 +8,11 @@
   line-height: 1.1;
 }
 
-/* Nur Startseite */
-body.layout--home .page__title {
-  margin-bottom: 0.25rem !important;   /* Abstand unter dem Titel */
+/* Grundtext schwarz statt grau */
+body,
+.page__content p,
+.page__content li {
+  color: #000000 !important;
 }
 
 /* ===== H2 Label-Stil ===== */
@@ -33,13 +35,15 @@ body.layout--home .page__title {
   margin-bottom: 0.9rem;
 }
 
-/* ===== Links ===== */
-a {
+/* Links im Content stilisieren */
+.page__content a {
+  font-family: "Crimson Pro", Georgia, serif;
   color: darken(#8fc9f0, 10%);
+  font-weight: 400;
   text-decoration: none;
 }
 
-a:hover {
+.page__content a:hover {
   color: darken(#8fc9f0, 20%);
   text-decoration: underline;
 }
